@@ -1,3 +1,3 @@
-Delendum Ventures specialize in the zero-knowledge domain and support early-stage zero-knowledge based projects with incubation and funding. We curate the list of resources below, including developer needs and knowledge base, and we will add project evaluation and more soon. 
+Delendum Ventures specializes in the zero-knowledge domain. We support early-stage zero-knowledge based projects with incubation and funding. We curated a list of resources below, aiming to provide a knowledge base and to cover developer needs. We will add more sections soon, such as project evaluations.
 
-If you are interested in collaborating or seeking advice/review/co-publishing, please feel free to contact us through hello@delendum.xyz.
+If you are interested in collaborations, please feel free to contact us through hello@delendum.xyz. We are also open to advise projects, provide reviews, and co-publish articles with others
